@@ -1,14 +1,14 @@
-##
+## BaseUrl
 
 ```
-baseUrl: https://api.miocat.work
+url: https://api.miocat.work
 ```
   
-## 物品图标
+## 物品图标 Minecraft Item Icon
 
 ```
 path: /image/getMcItem/${itemID}
-Method: GET
+method: GET
 
-Example: https://api.miocat.work/image/getMcItem/minecraft:bedrock
+example: https://api.miocat.work/image/getMcItem/minecraft:bedrock
 ```
