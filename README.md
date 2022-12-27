@@ -1,8 +1,14 @@
-# 物品图标
+##
 
 ```
-Url: https://1g.miocat.work/image/getMcItem/${itemID}
+baseUrl: https://api.miocat.work
+```
+  
+## 物品图标
+
+```
+path: /image/getMcItem/${itemID}
 Method: GET
 
-Example: https://1g.miocat.work/image/getMcItem/minecraft:bedrock
+Example: https://api.miocat.work/image/getMcItem/minecraft:bedrock
 ```
