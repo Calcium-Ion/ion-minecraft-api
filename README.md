@@ -10,5 +10,5 @@ url: https://api.miocat.work
 path: /image/getMcItem/${itemID}
 method: GET
 
-example: https://api.miocat.work/image/getMcItem/minecraft:bedrock
+example: https://api.miocat.work/image/getMCItem/minecraft:bedrock
 ```
